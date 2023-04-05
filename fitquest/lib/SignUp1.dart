@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:adobe_xd/pinned.dart';
 import './SignUp2.dart';
 import 'package:adobe_xd/page_link.dart';
-import './logo4.dart';
+import './logo.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 
 class SignUp1 extends StatelessWidget {
@@ -296,12 +296,12 @@ class SignUp1 extends StatelessWidget {
           Pinned.fromPins(
             Pin(size: 104.0, start: 26.0),
             Pin(size: 49.0, start: 113.0),
-            child: logo4(),
+            child: logo(),
           ),
           Pinned.fromPins(
             Pin(size: 104.0, start: 26.0),
             Pin(size: 49.0, start: 113.0),
-            child: logo4(),
+            child: logo(),
           ),
         ],
       ),

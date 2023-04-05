@@ -17,49 +17,6 @@ class Onboarding2 extends StatelessWidget {
       body: Stack(
         children: <Widget>[
           Pinned.fromPins(
-            Pin(start: -147.0, end: -136.0),
-            Pin(size: 658.0, start: -117.0),
-            child: Stack(
-              children: <Widget>[
-                SizedBox.expand(
-                    child: SvgPicture.string(
-                  _svg_qlkx87,
-                  allowDrawingOutsideViewBox: true,
-                  fit: BoxFit.fill,
-                )),
-                Container(
-                  decoration: BoxDecoration(
-                    color: const Color(0x91ffffff),
-                    borderRadius:
-                        BorderRadius.all(Radius.elliptical(9999.0, 9999.0)),
-                  ),
-                  margin: EdgeInsets.all(40.0),
-                ),
-                Pinned.fromPins(
-                  Pin(size: 464.9, end: 94.2),
-                  Pin(size: 467.1, start: 90.9),
-                  child: SvgPicture.string(
-                    _svg_qomufc,
-                    allowDrawingOutsideViewBox: true,
-                    fit: BoxFit.fill,
-                  ),
-                ),
-                Align(
-                  alignment: Alignment(0.0, -0.06),
-                  child: Container(
-                    width: 324.0,
-                    height: 324.0,
-                    decoration: BoxDecoration(
-                      color: const Color(0xffffffff),
-                      borderRadius:
-                          BorderRadius.all(Radius.elliptical(9999.0, 9999.0)),
-                    ),
-                  ),
-                ),
-              ],
-            ),
-          ),
-          Pinned.fromPins(
             Pin(start: 47.0, end: 46.0),
             Pin(size: 40.0, middle: 0.75),
             child: Text(
@@ -135,666 +92,6 @@ class Onboarding2 extends StatelessWidget {
               ],
             ),
           ),
-          Align(
-            alignment: Alignment(-0.004, -0.402),
-            child: SizedBox(
-              width: 225.0,
-              height: 297.0,
-              child: Stack(
-                children: <Widget>[
-                  Stack(
-                    children: <Widget>[
-                      Stack(
-                        children: <Widget>[
-                          Align(
-                            alignment: Alignment(0.088, -0.466),
-                            child: SizedBox(
-                              width: 55.0,
-                              height: 72.0,
-                              child: SvgPicture.string(
-                                _svg_bh75v2,
-                                allowDrawingOutsideViewBox: true,
-                              ),
-                            ),
-                          ),
-                          Pinned.fromPins(
-                            Pin(size: 31.1, middle: 0.655),
-                            Pin(size: 40.4, start: 22.5),
-                            child: SvgPicture.string(
-                              _svg_w7epjx,
-                              allowDrawingOutsideViewBox: true,
-                              fit: BoxFit.fill,
-                            ),
-                          ),
-                          Align(
-                            alignment: Alignment(0.067, -0.657),
-                            child: SizedBox(
-                              width: 15.0,
-                              height: 21.0,
-                              child: SvgPicture.string(
-                                _svg_qw5si,
-                                allowDrawingOutsideViewBox: true,
-                              ),
-                            ),
-                          ),
-                          Align(
-                            alignment: Alignment(0.077, -0.556),
-                            child: Container(
-                              width: 26.0,
-                              height: 26.0,
-                              color: const Color(0xffec9e5d),
-                            ),
-                          ),
-                          Pinned.fromPins(
-                            Pin(size: 48.7, start: 26.4),
-                            Pin(size: 38.5, start: 2.0),
-                            child: Stack(
-                              children: <Widget>[
-                                Pinned.fromPins(
-                                  Pin(size: 17.4, middle: 0.5091),
-                                  Pin(start: 5.7, end: 0.0),
-                                  child: SvgPicture.string(
-                                    _svg_q50gnt,
-                                    allowDrawingOutsideViewBox: true,
-                                    fit: BoxFit.fill,
-                                  ),
-                                ),
-                                Pinned.fromPins(
-                                  Pin(start: 0.0, end: 0.0),
-                                  Pin(size: 21.1, start: 0.0),
-                                  child: Stack(
-                                    children: <Widget>[
-                                      Center(
-                                        child: SizedBox(
-                                          width: 24.0,
-                                          height: 9.0,
-                                          child: SvgPicture.string(
-                                            _svg_ngyy4,
-                                            allowDrawingOutsideViewBox: true,
-                                          ),
-                                        ),
-                                      ),
-                                      Align(
-                                        alignment: Alignment.bottomLeft,
-                                        child: Container(
-                                          width: 16.0,
-                                          height: 16.0,
-                                          decoration: BoxDecoration(
-                                            color: const Color(0xff3d4545),
-                                            borderRadius: BorderRadius.all(
-                                                Radius.elliptical(
-                                                    9999.0, 9999.0)),
-                                          ),
-                                        ),
-                                      ),
-                                      Align(
-                                        alignment: Alignment.topRight,
-                                        child: Container(
-                                          width: 16.0,
-                                          height: 16.0,
-                                          decoration: BoxDecoration(
-                                            color: const Color(0xff3d4545),
-                                            borderRadius: BorderRadius.all(
-                                                Radius.elliptical(
-                                                    9999.0, 9999.0)),
-                                          ),
-                                        ),
-                                      ),
-                                      Pinned.fromPins(
-                                        Pin(size: 4.0, start: 1.5),
-                                        Pin(size: 4.8, middle: 0.4657),
-                                        child: SvgPicture.string(
-                                          _svg_nvqwj7,
-                                          allowDrawingOutsideViewBox: true,
-                                          fit: BoxFit.fill,
-                                        ),
-                                      ),
-                                      Pinned.fromPins(
-                                        Pin(size: 4.2, middle: 0.7619),
-                                        Pin(size: 4.8, start: 2.2),
-                                        child: SvgPicture.string(
-                                          _svg_xzya2y,
-                                          allowDrawingOutsideViewBox: true,
-                                          fit: BoxFit.fill,
-                                        ),
-                                      ),
-                                    ],
-                                  ),
-                                ),
-                                Pinned.fromPins(
-                                  Pin(size: 4.0, middle: 0.586),
-                                  Pin(size: 7.5, start: 2.7),
-                                  child: SvgPicture.string(
-                                    _svg_k88mmv,
-                                    allowDrawingOutsideViewBox: true,
-                                    fit: BoxFit.fill,
-                                  ),
-                                ),
-                                Pinned.fromPins(
-                                  Pin(size: 4.3, middle: 0.5072),
-                                  Pin(size: 9.1, start: 2.4),
-                                  child: SvgPicture.string(
-                                    _svg_p4r8g5,
-                                    allowDrawingOutsideViewBox: true,
-                                    fit: BoxFit.fill,
-                                  ),
-                                ),
-                                Pinned.fromPins(
-                                  Pin(size: 4.7, middle: 0.4205),
-                                  Pin(size: 7.8, start: 4.5),
-                                  child: SvgPicture.string(
-                                    _svg_i5ghyt,
-                                    allowDrawingOutsideViewBox: true,
-                                    fit: BoxFit.fill,
-                                  ),
-                                ),
-                                Align(
-                                  alignment: Alignment(-0.293, -0.604),
-                                  child: SizedBox(
-                                    width: 4.0,
-                                    height: 6.0,
-                                    child: SvgPicture.string(
-                                      _svg_t0gh3,
-                                      allowDrawingOutsideViewBox: true,
-                                    ),
-                                  ),
-                                ),
-                                Pinned.fromPins(
-                                  Pin(size: 8.6, middle: 0.6237),
-                                  Pin(size: 31.8, end: 0.9),
-                                  child: SvgPicture.string(
-                                    _svg_ex0lda,
-                                    allowDrawingOutsideViewBox: true,
-                                    fit: BoxFit.fill,
-                                  ),
-                                ),
-                              ],
-                            ),
-                          ),
-                          Pinned.fromPins(
-                            Pin(size: 48.7, end: 11.4),
-                            Pin(size: 38.5, start: 2.0),
-                            child: Stack(
-                              children: <Widget>[
-                                Pinned.fromPins(
-                                  Pin(size: 17.4, middle: 0.5),
-                                  Pin(start: 5.7, end: 0.0),
-                                  child: SvgPicture.string(
-                                    _svg_m8cfe,
-                                    allowDrawingOutsideViewBox: true,
-                                    fit: BoxFit.fill,
-                                  ),
-                                ),
-                                Pinned.fromPins(
-                                  Pin(start: 0.0, end: 0.0),
-                                  Pin(size: 21.1, start: 0.0),
-                                  child: Stack(
-                                    children: <Widget>[
-                                      Center(
-                                        child: SizedBox(
-                                          width: 24.0,
-                                          height: 9.0,
-                                          child: SvgPicture.string(
-                                            _svg_ymjq4z,
-                                            allowDrawingOutsideViewBox: true,
-                                          ),
-                                        ),
-                                      ),
-                                      Align(
-                                        alignment: Alignment.bottomRight,
-                                        child: Container(
-                                          width: 16.0,
-                                          height: 16.0,
-                                          decoration: BoxDecoration(
-                                            color: const Color(0xff3d4545),
-                                            borderRadius: BorderRadius.all(
-                                                Radius.elliptical(
-                                                    9999.0, 9999.0)),
-                                          ),
-                                        ),
-                                      ),
-                                      Align(
-                                        alignment: Alignment.topLeft,
-                                        child: Container(
-                                          width: 16.0,
-                                          height: 16.0,
-                                          decoration: BoxDecoration(
-                                            color: const Color(0xff3d4545),
-                                            borderRadius: BorderRadius.all(
-                                                Radius.elliptical(
-                                                    9999.0, 9999.0)),
-                                          ),
-                                        ),
-                                      ),
-                                      Align(
-                                        alignment: Alignment(0.603, -0.274),
-                                        child: SizedBox(
-                                          width: 5.0,
-                                          height: 5.0,
-                                          child: SvgPicture.string(
-                                            _svg_ld1nn9,
-                                            allowDrawingOutsideViewBox: true,
-                                          ),
-                                        ),
-                                      ),
-                                      Pinned.fromPins(
-                                        Pin(size: 4.0, start: 1.4),
-                                        Pin(size: 4.6, start: 2.3),
-                                        child: SvgPicture.string(
-                                          _svg_c90w06,
-                                          allowDrawingOutsideViewBox: true,
-                                          fit: BoxFit.fill,
-                                        ),
-                                      ),
-                                    ],
-                                  ),
-                                ),
-                                Pinned.fromPins(
-                                  Pin(size: 4.0, middle: 0.414),
-                                  Pin(size: 7.5, start: 2.7),
-                                  child: SvgPicture.string(
-                                    _svg_s3gepj,
-                                    allowDrawingOutsideViewBox: true,
-                                    fit: BoxFit.fill,
-                                  ),
-                                ),
-                                Pinned.fromPins(
-                                  Pin(size: 4.3, middle: 0.4928),
-                                  Pin(size: 9.1, start: 2.4),
-                                  child: SvgPicture.string(
-                                    _svg_uh75z,
-                                    allowDrawingOutsideViewBox: true,
-                                    fit: BoxFit.fill,
-                                  ),
-                                ),
-                                Pinned.fromPins(
-                                  Pin(size: 4.7, middle: 0.5795),
-                                  Pin(size: 7.8, start: 4.5),
-                                  child: SvgPicture.string(
-                                    _svg_vs86al,
-                                    allowDrawingOutsideViewBox: true,
-                                    fit: BoxFit.fill,
-                                  ),
-                                ),
-                                Align(
-                                  alignment: Alignment(0.293, -0.604),
-                                  child: SizedBox(
-                                    width: 4.0,
-                                    height: 6.0,
-                                    child: SvgPicture.string(
-                                      _svg_b5kusu,
-                                      allowDrawingOutsideViewBox: true,
-                                    ),
-                                  ),
-                                ),
-                                Pinned.fromPins(
-                                  Pin(size: 8.6, middle: 0.3834),
-                                  Pin(size: 31.8, end: 0.9),
-                                  child: SvgPicture.string(
-                                    _svg_bq79,
-                                    allowDrawingOutsideViewBox: true,
-                                    fit: BoxFit.fill,
-                                  ),
-                                ),
-                              ],
-                            ),
-                          ),
-                          Pinned.fromPins(
-                            Pin(size: 42.5, middle: 0.2714),
-                            Pin(size: 77.5, end: 22.6),
-                            child: SvgPicture.string(
-                              _svg_s8j447,
-                              allowDrawingOutsideViewBox: true,
-                              fit: BoxFit.fill,
-                            ),
-                          ),
-                          Pinned.fromPins(
-                            Pin(size: 42.5, middle: 0.8107),
-                            Pin(size: 77.5, end: 22.6),
-                            child: SvgPicture.string(
-                              _svg_rtjfjb,
-                              allowDrawingOutsideViewBox: true,
-                              fit: BoxFit.fill,
-                            ),
-                          ),
-                          Align(
-                            alignment: Alignment(0.586, -0.587),
-                            child: SizedBox(
-                              width: 46.0,
-                              height: 19.0,
-                              child: SvgPicture.string(
-                                _svg_oxher,
-                                allowDrawingOutsideViewBox: true,
-                              ),
-                            ),
-                          ),
-                          Pinned.fromPins(
-                            Pin(size: 17.4, middle: 0.2316),
-                            Pin(size: 48.5, start: 23.1),
-                            child: SvgPicture.string(
-                              _svg_q6r12,
-                              allowDrawingOutsideViewBox: true,
-                              fit: BoxFit.fill,
-                            ),
-                          ),
-                          Pinned.fromPins(
-                            Pin(size: 17.4, end: 33.1),
-                            Pin(size: 48.5, start: 23.1),
-                            child: SvgPicture.string(
-                              _svg_emghs1,
-                              allowDrawingOutsideViewBox: true,
-                              fit: BoxFit.fill,
-                            ),
-                          ),
-                          Pinned.fromPins(
-                            Pin(size: 23.7, middle: 0.2047),
-                            Pin(size: 21.5, end: 8.5),
-                            child: Stack(
-                              children: <Widget>[
-                                Pinned.fromPins(
-                                  Pin(start: 0.0, end: 0.0),
-                                  Pin(size: 8.1, end: 0.0),
-                                  child: SvgPicture.string(
-                                    _svg_d562c,
-                                    allowDrawingOutsideViewBox: true,
-                                    fit: BoxFit.fill,
-                                  ),
-                                ),
-                                Align(
-                                  alignment: Alignment(0.18, -1.0),
-                                  child: SizedBox(
-                                    width: 8.0,
-                                    height: 12.0,
-                                    child: SvgPicture.string(
-                                      _svg_ufxjq5,
-                                      allowDrawingOutsideViewBox: true,
-                                    ),
-                                  ),
-                                ),
-                                Pinned.fromPins(
-                                  Pin(start: 0.0, end: 0.2),
-                                  Pin(size: 16.4, start: 1.1),
-                                  child: SvgPicture.string(
-                                    _svg_ilwbvo,
-                                    allowDrawingOutsideViewBox: true,
-                                    fit: BoxFit.fill,
-                                  ),
-                                ),
-                                Align(
-                                  alignment: Alignment(0.139, -0.107),
-                                  child: SizedBox(
-                                    width: 7.0,
-                                    height: 2.0,
-                                    child: SvgPicture.string(
-                                      _svg_dhvts0,
-                                      allowDrawingOutsideViewBox: true,
-                                    ),
-                                  ),
-                                ),
-                                Align(
-                                  alignment: Alignment(0.139, -0.337),
-                                  child: SizedBox(
-                                    width: 7.0,
-                                    height: 2.0,
-                                    child: SvgPicture.string(
-                                      _svg_upzvlz,
-                                      allowDrawingOutsideViewBox: true,
-                                    ),
-                                  ),
-                                ),
-                                Align(
-                                  alignment: Alignment(0.139, -0.567),
-                                  child: SizedBox(
-                                    width: 7.0,
-                                    height: 2.0,
-                                    child: SvgPicture.string(
-                                      _svg_gi0fh,
-                                      allowDrawingOutsideViewBox: true,
-                                    ),
-                                  ),
-                                ),
-                                Pinned.fromPins(
-                                  Pin(start: 0.6, end: 0.3),
-                                  Pin(size: 5.9, middle: 0.7464),
-                                  child: SvgPicture.string(
-                                    _svg_p8ndh,
-                                    allowDrawingOutsideViewBox: true,
-                                    fit: BoxFit.fill,
-                                  ),
-                                ),
-                              ],
-                            ),
-                          ),
-                          Pinned.fromPins(
-                            Pin(size: 23.7, end: 26.2),
-                            Pin(size: 21.5, end: 8.5),
-                            child: Stack(
-                              children: <Widget>[
-                                Pinned.fromPins(
-                                  Pin(start: 0.0, end: 0.0),
-                                  Pin(size: 8.1, end: 0.0),
-                                  child: SvgPicture.string(
-                                    _svg_tw3xam,
-                                    allowDrawingOutsideViewBox: true,
-                                    fit: BoxFit.fill,
-                                  ),
-                                ),
-                                Align(
-                                  alignment: Alignment(-0.18, -1.0),
-                                  child: SizedBox(
-                                    width: 8.0,
-                                    height: 12.0,
-                                    child: SvgPicture.string(
-                                      _svg_d0lja,
-                                      allowDrawingOutsideViewBox: true,
-                                    ),
-                                  ),
-                                ),
-                                Pinned.fromPins(
-                                  Pin(start: 0.2, end: 0.0),
-                                  Pin(size: 16.4, start: 1.1),
-                                  child: SvgPicture.string(
-                                    _svg_ntmkh,
-                                    allowDrawingOutsideViewBox: true,
-                                    fit: BoxFit.fill,
-                                  ),
-                                ),
-                                Align(
-                                  alignment: Alignment(-0.139, -0.107),
-                                  child: SizedBox(
-                                    width: 7.0,
-                                    height: 2.0,
-                                    child: SvgPicture.string(
-                                      _svg_jizo6s,
-                                      allowDrawingOutsideViewBox: true,
-                                    ),
-                                  ),
-                                ),
-                                Align(
-                                  alignment: Alignment(-0.139, -0.337),
-                                  child: SizedBox(
-                                    width: 7.0,
-                                    height: 2.0,
-                                    child: SvgPicture.string(
-                                      _svg_x7l,
-                                      allowDrawingOutsideViewBox: true,
-                                    ),
-                                  ),
-                                ),
-                                Align(
-                                  alignment: Alignment(-0.139, -0.567),
-                                  child: SizedBox(
-                                    width: 7.0,
-                                    height: 2.0,
-                                    child: SvgPicture.string(
-                                      _svg_k1h77,
-                                      allowDrawingOutsideViewBox: true,
-                                    ),
-                                  ),
-                                ),
-                                Pinned.fromPins(
-                                  Pin(start: 0.3, end: 0.6),
-                                  Pin(size: 5.9, middle: 0.7464),
-                                  child: SvgPicture.string(
-                                    _svg_w5h0,
-                                    allowDrawingOutsideViewBox: true,
-                                    fit: BoxFit.fill,
-                                  ),
-                                ),
-                              ],
-                            ),
-                          ),
-                          Pinned.fromPins(
-                            Pin(size: 1.0, middle: 0.4325),
-                            Pin(size: 2.0, start: 23.4),
-                            child: SvgPicture.string(
-                              _svg_t6v3c,
-                              allowDrawingOutsideViewBox: true,
-                              fit: BoxFit.fill,
-                            ),
-                          ),
-                          Align(
-                            alignment: Alignment(0.179, -1.0),
-                            child: SizedBox(
-                              width: 59.0,
-                              height: 59.0,
-                              child: SvgPicture.string(
-                                _svg_a9t22,
-                                allowDrawingOutsideViewBox: true,
-                              ),
-                            ),
-                          ),
-                          Pinned.fromPins(
-                            Pin(size: 40.8, middle: 0.5392),
-                            Pin(size: 38.4, start: 16.0),
-                            child: SvgPicture.string(
-                              _svg_s0dh,
-                              allowDrawingOutsideViewBox: true,
-                              fit: BoxFit.fill,
-                            ),
-                          ),
-                          Align(
-                            alignment: Alignment(0.082, -0.374),
-                            child: SizedBox(
-                              width: 46.0,
-                              height: 21.0,
-                              child: SvgPicture.string(
-                                _svg_isxn6o,
-                                allowDrawingOutsideViewBox: true,
-                              ),
-                            ),
-                          ),
-                          Align(
-                            alignment: Alignment(0.087, -0.536),
-                            child: SizedBox(
-                              width: 56.0,
-                              height: 38.0,
-                              child: SvgPicture.string(
-                                _svg_clw4i4,
-                                allowDrawingOutsideViewBox: true,
-                              ),
-                            ),
-                          ),
-                          Align(
-                            alignment: Alignment(-0.409, -0.587),
-                            child: SizedBox(
-                              width: 50.0,
-                              height: 19.0,
-                              child: SvgPicture.string(
-                                _svg_h5wfw,
-                                allowDrawingOutsideViewBox: true,
-                              ),
-                            ),
-                          ),
-                          Align(
-                            alignment: Alignment(0.114, 0.206),
-                            child: SizedBox(
-                              width: 91.0,
-                              height: 85.0,
-                              child: SvgPicture.string(
-                                _svg_cwyqb,
-                                allowDrawingOutsideViewBox: true,
-                              ),
-                            ),
-                          ),
-                          Align(
-                            alignment: Alignment(-0.051, -0.435),
-                            child: SizedBox(
-                              width: 26.0,
-                              height: 24.0,
-                              child: SvgPicture.string(
-                                _svg_rofi,
-                                allowDrawingOutsideViewBox: true,
-                              ),
-                            ),
-                          ),
-                          Align(
-                            alignment: Alignment(0.203, -0.435),
-                            child: SizedBox(
-                              width: 25.0,
-                              height: 24.0,
-                              child: SvgPicture.string(
-                                _svg_qmfxym,
-                                allowDrawingOutsideViewBox: true,
-                              ),
-                            ),
-                          ),
-                          Align(
-                            alignment: Alignment(0.58, -0.587),
-                            child: SizedBox(
-                              width: 50.0,
-                              height: 19.0,
-                              child: SvgPicture.string(
-                                _svg_q0aruw,
-                                allowDrawingOutsideViewBox: true,
-                              ),
-                            ),
-                          ),
-                          Align(
-                            alignment: Alignment(0.126, -0.102),
-                            child: SizedBox(
-                              width: 100.0,
-                              height: 69.0,
-                              child: Stack(
-                                children: <Widget>[
-                                  Pinned.fromPins(
-                                    Pin(start: 4.2, end: 4.7),
-                                    Pin(size: 84.5, end: -41.4),
-                                    child: SvgPicture.string(
-                                      _svg_n4d145,
-                                      allowDrawingOutsideViewBox: true,
-                                      fit: BoxFit.fill,
-                                    ),
-                                  ),
-                                  SizedBox.expand(
-                                      child: SvgPicture.string(
-                                    _svg_bvotp,
-                                    allowDrawingOutsideViewBox: true,
-                                    fit: BoxFit.fill,
-                                  )),
-                                ],
-                              ),
-                            ),
-                          ),
-                          Pinned.fromPins(
-                            Pin(start: 0.0, end: 0.0),
-                            Pin(size: 35.8, end: 0.0),
-                            child: Container(
-                              decoration: BoxDecoration(
-                                color: const Color(0x393e67d6),
-                                borderRadius: BorderRadius.all(
-                                    Radius.elliptical(9999.0, 9999.0)),
-                              ),
-                            ),
-                          ),
-                        ],
-                      ),
-                    ],
-                  ),
-                ],
-              ),
-            ),
-          ),
           Pinned.fromPins(
             Pin(size: 136.0, middle: 0.5021),
             Pin(size: 30.0, start: 49.0),
@@ -850,12 +147,745 @@ class Onboarding2 extends StatelessWidget {
               ),
             ),
           ),
+          Pinned.fromPins(
+            Pin(start: 0.0, end: 1.1),
+            Pin(size: 546.6, start: 0.0),
+            child: Stack(
+              children: <Widget>[
+                Padding(
+                  padding: EdgeInsets.fromLTRB(-147.0, -117.0, -137.1, 5.6),
+                  child: Stack(
+                    children: <Widget>[
+                      SizedBox.expand(
+                          child: SvgPicture.string(
+                        _svg_qlkx87,
+                        allowDrawingOutsideViewBox: true,
+                        fit: BoxFit.fill,
+                      )),
+                      Container(
+                        decoration: BoxDecoration(
+                          color: const Color(0x91ffffff),
+                          borderRadius: BorderRadius.all(
+                              Radius.elliptical(9999.0, 9999.0)),
+                        ),
+                        margin: EdgeInsets.all(40.0),
+                      ),
+                      Pinned.fromPins(
+                        Pin(size: 464.9, end: 94.2),
+                        Pin(size: 467.1, start: 90.9),
+                        child: SvgPicture.string(
+                          _svg_qomufc,
+                          allowDrawingOutsideViewBox: true,
+                          fit: BoxFit.fill,
+                        ),
+                      ),
+                      Align(
+                        alignment: Alignment(0.0, -0.06),
+                        child: Container(
+                          width: 324.0,
+                          height: 324.0,
+                          decoration: BoxDecoration(
+                            color: const Color(0xffffffff),
+                            borderRadius: BorderRadius.all(
+                                Radius.elliptical(9999.0, 9999.0)),
+                          ),
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+                Align(
+                  alignment: Alignment(0.003, 0.236),
+                  child: SizedBox(
+                    width: 225.0,
+                    height: 297.0,
+                    child: Stack(
+                      children: <Widget>[
+                        Stack(
+                          children: <Widget>[
+                            Stack(
+                              children: <Widget>[
+                                Align(
+                                  alignment: Alignment(0.088, -0.466),
+                                  child: SizedBox(
+                                    width: 55.0,
+                                    height: 72.0,
+                                    child: SvgPicture.string(
+                                      _svg_bh75v2,
+                                      allowDrawingOutsideViewBox: true,
+                                    ),
+                                  ),
+                                ),
+                                Pinned.fromPins(
+                                  Pin(size: 31.1, middle: 0.655),
+                                  Pin(size: 40.4, start: 22.5),
+                                  child: SvgPicture.string(
+                                    _svg_w7epjx,
+                                    allowDrawingOutsideViewBox: true,
+                                    fit: BoxFit.fill,
+                                  ),
+                                ),
+                                Align(
+                                  alignment: Alignment(0.067, -0.657),
+                                  child: SizedBox(
+                                    width: 15.0,
+                                    height: 21.0,
+                                    child: SvgPicture.string(
+                                      _svg_qw5si,
+                                      allowDrawingOutsideViewBox: true,
+                                    ),
+                                  ),
+                                ),
+                                Align(
+                                  alignment: Alignment(0.077, -0.556),
+                                  child: Container(
+                                    width: 26.0,
+                                    height: 26.0,
+                                    color: const Color(0xffec9e5d),
+                                  ),
+                                ),
+                                Pinned.fromPins(
+                                  Pin(size: 48.7, start: 26.4),
+                                  Pin(size: 38.5, start: 2.0),
+                                  child: Stack(
+                                    children: <Widget>[
+                                      Pinned.fromPins(
+                                        Pin(size: 17.4, middle: 0.5091),
+                                        Pin(start: 5.7, end: 0.0),
+                                        child: SvgPicture.string(
+                                          _svg_q50gnt,
+                                          allowDrawingOutsideViewBox: true,
+                                          fit: BoxFit.fill,
+                                        ),
+                                      ),
+                                      Pinned.fromPins(
+                                        Pin(start: 0.0, end: 0.0),
+                                        Pin(size: 21.1, start: 0.0),
+                                        child: Stack(
+                                          children: <Widget>[
+                                            Center(
+                                              child: SizedBox(
+                                                width: 24.0,
+                                                height: 9.0,
+                                                child: SvgPicture.string(
+                                                  _svg_ngyy4,
+                                                  allowDrawingOutsideViewBox:
+                                                      true,
+                                                ),
+                                              ),
+                                            ),
+                                            Align(
+                                              alignment: Alignment.bottomLeft,
+                                              child: Container(
+                                                width: 16.0,
+                                                height: 16.0,
+                                                decoration: BoxDecoration(
+                                                  color:
+                                                      const Color(0xff3d4545),
+                                                  borderRadius:
+                                                      BorderRadius.all(
+                                                          Radius.elliptical(
+                                                              9999.0, 9999.0)),
+                                                ),
+                                              ),
+                                            ),
+                                            Align(
+                                              alignment: Alignment.topRight,
+                                              child: Container(
+                                                width: 16.0,
+                                                height: 16.0,
+                                                decoration: BoxDecoration(
+                                                  color:
+                                                      const Color(0xff3d4545),
+                                                  borderRadius:
+                                                      BorderRadius.all(
+                                                          Radius.elliptical(
+                                                              9999.0, 9999.0)),
+                                                ),
+                                              ),
+                                            ),
+                                            Pinned.fromPins(
+                                              Pin(size: 4.0, start: 1.5),
+                                              Pin(size: 4.8, middle: 0.4657),
+                                              child: SvgPicture.string(
+                                                _svg_nvqwj7,
+                                                allowDrawingOutsideViewBox:
+                                                    true,
+                                                fit: BoxFit.fill,
+                                              ),
+                                            ),
+                                            Pinned.fromPins(
+                                              Pin(size: 4.2, middle: 0.7619),
+                                              Pin(size: 4.8, start: 2.2),
+                                              child: SvgPicture.string(
+                                                _svg_xzya2y,
+                                                allowDrawingOutsideViewBox:
+                                                    true,
+                                                fit: BoxFit.fill,
+                                              ),
+                                            ),
+                                          ],
+                                        ),
+                                      ),
+                                      Pinned.fromPins(
+                                        Pin(size: 4.0, middle: 0.586),
+                                        Pin(size: 7.5, start: 2.7),
+                                        child: SvgPicture.string(
+                                          _svg_k88mmv,
+                                          allowDrawingOutsideViewBox: true,
+                                          fit: BoxFit.fill,
+                                        ),
+                                      ),
+                                      Pinned.fromPins(
+                                        Pin(size: 4.3, middle: 0.5072),
+                                        Pin(size: 9.1, start: 2.4),
+                                        child: SvgPicture.string(
+                                          _svg_p4r8g5,
+                                          allowDrawingOutsideViewBox: true,
+                                          fit: BoxFit.fill,
+                                        ),
+                                      ),
+                                      Pinned.fromPins(
+                                        Pin(size: 4.7, middle: 0.4205),
+                                        Pin(size: 7.8, start: 4.5),
+                                        child: SvgPicture.string(
+                                          _svg_i5ghyt,
+                                          allowDrawingOutsideViewBox: true,
+                                          fit: BoxFit.fill,
+                                        ),
+                                      ),
+                                      Align(
+                                        alignment: Alignment(-0.293, -0.604),
+                                        child: SizedBox(
+                                          width: 4.0,
+                                          height: 6.0,
+                                          child: SvgPicture.string(
+                                            _svg_t0gh3,
+                                            allowDrawingOutsideViewBox: true,
+                                          ),
+                                        ),
+                                      ),
+                                      Pinned.fromPins(
+                                        Pin(size: 8.6, middle: 0.6237),
+                                        Pin(size: 31.8, end: 0.9),
+                                        child: SvgPicture.string(
+                                          _svg_ex0lda,
+                                          allowDrawingOutsideViewBox: true,
+                                          fit: BoxFit.fill,
+                                        ),
+                                      ),
+                                    ],
+                                  ),
+                                ),
+                                Pinned.fromPins(
+                                  Pin(size: 48.7, end: 11.4),
+                                  Pin(size: 38.5, start: 2.0),
+                                  child: Stack(
+                                    children: <Widget>[
+                                      Pinned.fromPins(
+                                        Pin(size: 17.4, middle: 0.5),
+                                        Pin(start: 5.7, end: 0.0),
+                                        child: SvgPicture.string(
+                                          _svg_m8cfe,
+                                          allowDrawingOutsideViewBox: true,
+                                          fit: BoxFit.fill,
+                                        ),
+                                      ),
+                                      Pinned.fromPins(
+                                        Pin(start: 0.0, end: 0.0),
+                                        Pin(size: 21.1, start: 0.0),
+                                        child: Stack(
+                                          children: <Widget>[
+                                            Center(
+                                              child: SizedBox(
+                                                width: 24.0,
+                                                height: 9.0,
+                                                child: SvgPicture.string(
+                                                  _svg_ymjq4z,
+                                                  allowDrawingOutsideViewBox:
+                                                      true,
+                                                ),
+                                              ),
+                                            ),
+                                            Align(
+                                              alignment: Alignment.bottomRight,
+                                              child: Container(
+                                                width: 16.0,
+                                                height: 16.0,
+                                                decoration: BoxDecoration(
+                                                  color:
+                                                      const Color(0xff3d4545),
+                                                  borderRadius:
+                                                      BorderRadius.all(
+                                                          Radius.elliptical(
+                                                              9999.0, 9999.0)),
+                                                ),
+                                              ),
+                                            ),
+                                            Align(
+                                              alignment: Alignment.topLeft,
+                                              child: Container(
+                                                width: 16.0,
+                                                height: 16.0,
+                                                decoration: BoxDecoration(
+                                                  color:
+                                                      const Color(0xff3d4545),
+                                                  borderRadius:
+                                                      BorderRadius.all(
+                                                          Radius.elliptical(
+                                                              9999.0, 9999.0)),
+                                                ),
+                                              ),
+                                            ),
+                                            Align(
+                                              alignment:
+                                                  Alignment(0.603, -0.274),
+                                              child: SizedBox(
+                                                width: 5.0,
+                                                height: 5.0,
+                                                child: SvgPicture.string(
+                                                  _svg_ld1nn9,
+                                                  allowDrawingOutsideViewBox:
+                                                      true,
+                                                ),
+                                              ),
+                                            ),
+                                            Pinned.fromPins(
+                                              Pin(size: 4.0, start: 1.4),
+                                              Pin(size: 4.6, start: 2.3),
+                                              child: SvgPicture.string(
+                                                _svg_c90w06,
+                                                allowDrawingOutsideViewBox:
+                                                    true,
+                                                fit: BoxFit.fill,
+                                              ),
+                                            ),
+                                          ],
+                                        ),
+                                      ),
+                                      Pinned.fromPins(
+                                        Pin(size: 4.0, middle: 0.414),
+                                        Pin(size: 7.5, start: 2.7),
+                                        child: SvgPicture.string(
+                                          _svg_s3gepj,
+                                          allowDrawingOutsideViewBox: true,
+                                          fit: BoxFit.fill,
+                                        ),
+                                      ),
+                                      Pinned.fromPins(
+                                        Pin(size: 4.3, middle: 0.4928),
+                                        Pin(size: 9.1, start: 2.4),
+                                        child: SvgPicture.string(
+                                          _svg_uh75z,
+                                          allowDrawingOutsideViewBox: true,
+                                          fit: BoxFit.fill,
+                                        ),
+                                      ),
+                                      Pinned.fromPins(
+                                        Pin(size: 4.7, middle: 0.5795),
+                                        Pin(size: 7.8, start: 4.5),
+                                        child: SvgPicture.string(
+                                          _svg_vs86al,
+                                          allowDrawingOutsideViewBox: true,
+                                          fit: BoxFit.fill,
+                                        ),
+                                      ),
+                                      Align(
+                                        alignment: Alignment(0.293, -0.604),
+                                        child: SizedBox(
+                                          width: 4.0,
+                                          height: 6.0,
+                                          child: SvgPicture.string(
+                                            _svg_b5kusu,
+                                            allowDrawingOutsideViewBox: true,
+                                          ),
+                                        ),
+                                      ),
+                                      Pinned.fromPins(
+                                        Pin(size: 8.6, middle: 0.3834),
+                                        Pin(size: 31.8, end: 0.9),
+                                        child: SvgPicture.string(
+                                          _svg_bq79,
+                                          allowDrawingOutsideViewBox: true,
+                                          fit: BoxFit.fill,
+                                        ),
+                                      ),
+                                    ],
+                                  ),
+                                ),
+                                Pinned.fromPins(
+                                  Pin(size: 42.5, middle: 0.2714),
+                                  Pin(size: 77.5, end: 22.6),
+                                  child: SvgPicture.string(
+                                    _svg_s8j447,
+                                    allowDrawingOutsideViewBox: true,
+                                    fit: BoxFit.fill,
+                                  ),
+                                ),
+                                Pinned.fromPins(
+                                  Pin(size: 42.5, middle: 0.8107),
+                                  Pin(size: 77.5, end: 22.6),
+                                  child: SvgPicture.string(
+                                    _svg_rtjfjb,
+                                    allowDrawingOutsideViewBox: true,
+                                    fit: BoxFit.fill,
+                                  ),
+                                ),
+                                Align(
+                                  alignment: Alignment(0.586, -0.587),
+                                  child: SizedBox(
+                                    width: 46.0,
+                                    height: 19.0,
+                                    child: SvgPicture.string(
+                                      _svg_oxher,
+                                      allowDrawingOutsideViewBox: true,
+                                    ),
+                                  ),
+                                ),
+                                Pinned.fromPins(
+                                  Pin(size: 17.4, middle: 0.2316),
+                                  Pin(size: 48.5, start: 23.1),
+                                  child: SvgPicture.string(
+                                    _svg_q6r12,
+                                    allowDrawingOutsideViewBox: true,
+                                    fit: BoxFit.fill,
+                                  ),
+                                ),
+                                Pinned.fromPins(
+                                  Pin(size: 17.4, end: 33.1),
+                                  Pin(size: 48.5, start: 23.1),
+                                  child: SvgPicture.string(
+                                    _svg_emghs1,
+                                    allowDrawingOutsideViewBox: true,
+                                    fit: BoxFit.fill,
+                                  ),
+                                ),
+                                Pinned.fromPins(
+                                  Pin(size: 23.7, middle: 0.2047),
+                                  Pin(size: 21.5, end: 8.5),
+                                  child: Stack(
+                                    children: <Widget>[
+                                      Pinned.fromPins(
+                                        Pin(start: 0.0, end: 0.0),
+                                        Pin(size: 8.1, end: 0.0),
+                                        child: SvgPicture.string(
+                                          _svg_d562c,
+                                          allowDrawingOutsideViewBox: true,
+                                          fit: BoxFit.fill,
+                                        ),
+                                      ),
+                                      Align(
+                                        alignment: Alignment(0.18, -1.0),
+                                        child: SizedBox(
+                                          width: 8.0,
+                                          height: 12.0,
+                                          child: SvgPicture.string(
+                                            _svg_ufxjq5,
+                                            allowDrawingOutsideViewBox: true,
+                                          ),
+                                        ),
+                                      ),
+                                      Pinned.fromPins(
+                                        Pin(start: 0.0, end: 0.2),
+                                        Pin(size: 16.4, start: 1.1),
+                                        child: SvgPicture.string(
+                                          _svg_ilwbvo,
+                                          allowDrawingOutsideViewBox: true,
+                                          fit: BoxFit.fill,
+                                        ),
+                                      ),
+                                      Align(
+                                        alignment: Alignment(0.139, -0.107),
+                                        child: SizedBox(
+                                          width: 7.0,
+                                          height: 2.0,
+                                          child: SvgPicture.string(
+                                            _svg_dhvts0,
+                                            allowDrawingOutsideViewBox: true,
+                                          ),
+                                        ),
+                                      ),
+                                      Align(
+                                        alignment: Alignment(0.139, -0.337),
+                                        child: SizedBox(
+                                          width: 7.0,
+                                          height: 2.0,
+                                          child: SvgPicture.string(
+                                            _svg_upzvlz,
+                                            allowDrawingOutsideViewBox: true,
+                                          ),
+                                        ),
+                                      ),
+                                      Align(
+                                        alignment: Alignment(0.139, -0.567),
+                                        child: SizedBox(
+                                          width: 7.0,
+                                          height: 2.0,
+                                          child: SvgPicture.string(
+                                            _svg_gi0fh,
+                                            allowDrawingOutsideViewBox: true,
+                                          ),
+                                        ),
+                                      ),
+                                      Pinned.fromPins(
+                                        Pin(start: 0.6, end: 0.3),
+                                        Pin(size: 5.9, middle: 0.7464),
+                                        child: SvgPicture.string(
+                                          _svg_p8ndh,
+                                          allowDrawingOutsideViewBox: true,
+                                          fit: BoxFit.fill,
+                                        ),
+                                      ),
+                                    ],
+                                  ),
+                                ),
+                                Pinned.fromPins(
+                                  Pin(size: 23.7, end: 26.2),
+                                  Pin(size: 21.5, end: 8.5),
+                                  child: Stack(
+                                    children: <Widget>[
+                                      Pinned.fromPins(
+                                        Pin(start: 0.0, end: 0.0),
+                                        Pin(size: 8.1, end: 0.0),
+                                        child: SvgPicture.string(
+                                          _svg_tw3xam,
+                                          allowDrawingOutsideViewBox: true,
+                                          fit: BoxFit.fill,
+                                        ),
+                                      ),
+                                      Align(
+                                        alignment: Alignment(-0.18, -1.0),
+                                        child: SizedBox(
+                                          width: 8.0,
+                                          height: 12.0,
+                                          child: SvgPicture.string(
+                                            _svg_d0lja,
+                                            allowDrawingOutsideViewBox: true,
+                                          ),
+                                        ),
+                                      ),
+                                      Pinned.fromPins(
+                                        Pin(start: 0.2, end: 0.0),
+                                        Pin(size: 16.4, start: 1.1),
+                                        child: SvgPicture.string(
+                                          _svg_ntmkh,
+                                          allowDrawingOutsideViewBox: true,
+                                          fit: BoxFit.fill,
+                                        ),
+                                      ),
+                                      Align(
+                                        alignment: Alignment(-0.139, -0.107),
+                                        child: SizedBox(
+                                          width: 7.0,
+                                          height: 2.0,
+                                          child: SvgPicture.string(
+                                            _svg_jizo6s,
+                                            allowDrawingOutsideViewBox: true,
+                                          ),
+                                        ),
+                                      ),
+                                      Align(
+                                        alignment: Alignment(-0.139, -0.337),
+                                        child: SizedBox(
+                                          width: 7.0,
+                                          height: 2.0,
+                                          child: SvgPicture.string(
+                                            _svg_x7l,
+                                            allowDrawingOutsideViewBox: true,
+                                          ),
+                                        ),
+                                      ),
+                                      Align(
+                                        alignment: Alignment(-0.139, -0.567),
+                                        child: SizedBox(
+                                          width: 7.0,
+                                          height: 2.0,
+                                          child: SvgPicture.string(
+                                            _svg_k1h77,
+                                            allowDrawingOutsideViewBox: true,
+                                          ),
+                                        ),
+                                      ),
+                                      Pinned.fromPins(
+                                        Pin(start: 0.3, end: 0.6),
+                                        Pin(size: 5.9, middle: 0.7464),
+                                        child: SvgPicture.string(
+                                          _svg_w5h0,
+                                          allowDrawingOutsideViewBox: true,
+                                          fit: BoxFit.fill,
+                                        ),
+                                      ),
+                                    ],
+                                  ),
+                                ),
+                                Pinned.fromPins(
+                                  Pin(size: 1.0, middle: 0.4325),
+                                  Pin(size: 2.0, start: 23.4),
+                                  child: SvgPicture.string(
+                                    _svg_t6v3c,
+                                    allowDrawingOutsideViewBox: true,
+                                    fit: BoxFit.fill,
+                                  ),
+                                ),
+                                Align(
+                                  alignment: Alignment(0.179, -1.0),
+                                  child: SizedBox(
+                                    width: 59.0,
+                                    height: 59.0,
+                                    child: SvgPicture.string(
+                                      _svg_a9t22,
+                                      allowDrawingOutsideViewBox: true,
+                                    ),
+                                  ),
+                                ),
+                                Pinned.fromPins(
+                                  Pin(size: 40.8, middle: 0.5392),
+                                  Pin(size: 38.4, start: 16.0),
+                                  child: SvgPicture.string(
+                                    _svg_s0dh,
+                                    allowDrawingOutsideViewBox: true,
+                                    fit: BoxFit.fill,
+                                  ),
+                                ),
+                                Align(
+                                  alignment: Alignment(0.082, -0.374),
+                                  child: SizedBox(
+                                    width: 46.0,
+                                    height: 21.0,
+                                    child: SvgPicture.string(
+                                      _svg_isxn6o,
+                                      allowDrawingOutsideViewBox: true,
+                                    ),
+                                  ),
+                                ),
+                                Align(
+                                  alignment: Alignment(0.087, -0.536),
+                                  child: SizedBox(
+                                    width: 56.0,
+                                    height: 38.0,
+                                    child: SvgPicture.string(
+                                      _svg_clw4i4,
+                                      allowDrawingOutsideViewBox: true,
+                                    ),
+                                  ),
+                                ),
+                                Align(
+                                  alignment: Alignment(-0.409, -0.587),
+                                  child: SizedBox(
+                                    width: 50.0,
+                                    height: 19.0,
+                                    child: SvgPicture.string(
+                                      _svg_h5wfw,
+                                      allowDrawingOutsideViewBox: true,
+                                    ),
+                                  ),
+                                ),
+                                Align(
+                                  alignment: Alignment(0.114, 0.206),
+                                  child: SizedBox(
+                                    width: 91.0,
+                                    height: 85.0,
+                                    child: SvgPicture.string(
+                                      _svg_cwyqb,
+                                      allowDrawingOutsideViewBox: true,
+                                    ),
+                                  ),
+                                ),
+                                Align(
+                                  alignment: Alignment(-0.051, -0.435),
+                                  child: SizedBox(
+                                    width: 26.0,
+                                    height: 24.0,
+                                    child: SvgPicture.string(
+                                      _svg_rofi,
+                                      allowDrawingOutsideViewBox: true,
+                                    ),
+                                  ),
+                                ),
+                                Align(
+                                  alignment: Alignment(0.203, -0.435),
+                                  child: SizedBox(
+                                    width: 25.0,
+                                    height: 24.0,
+                                    child: SvgPicture.string(
+                                      _svg_qmfxym,
+                                      allowDrawingOutsideViewBox: true,
+                                    ),
+                                  ),
+                                ),
+                                Align(
+                                  alignment: Alignment(0.58, -0.587),
+                                  child: SizedBox(
+                                    width: 50.0,
+                                    height: 19.0,
+                                    child: SvgPicture.string(
+                                      _svg_q0aruw,
+                                      allowDrawingOutsideViewBox: true,
+                                    ),
+                                  ),
+                                ),
+                                Align(
+                                  alignment: Alignment(0.126, -0.102),
+                                  child: SizedBox(
+                                    width: 100.0,
+                                    height: 69.0,
+                                    child: Stack(
+                                      children: <Widget>[
+                                        Pinned.fromPins(
+                                          Pin(start: 4.2, end: 4.7),
+                                          Pin(size: 84.5, end: -41.4),
+                                          child: SvgPicture.string(
+                                            _svg_n4d145,
+                                            allowDrawingOutsideViewBox: true,
+                                            fit: BoxFit.fill,
+                                          ),
+                                        ),
+                                        SizedBox.expand(
+                                            child: SvgPicture.string(
+                                          _svg_bvotp,
+                                          allowDrawingOutsideViewBox: true,
+                                          fit: BoxFit.fill,
+                                        )),
+                                      ],
+                                    ),
+                                  ),
+                                ),
+                                Pinned.fromPins(
+                                  Pin(start: 0.0, end: 0.0),
+                                  Pin(size: 35.8, end: 0.0),
+                                  child: Container(
+                                    decoration: BoxDecoration(
+                                      color: const Color(0x393e67d6),
+                                      borderRadius: BorderRadius.all(
+                                          Radius.elliptical(9999.0, 9999.0)),
+                                    ),
+                                  ),
+                                ),
+                              ],
+                            ),
+                          ],
+                        ),
+                      ],
+                    ),
+                  ),
+                ),
+                SizedBox.expand(
+                    child: SvgPicture.string(
+                  _svg_bcrqbq,
+                  allowDrawingOutsideViewBox: true,
+                  fit: BoxFit.fill,
+                )),
+              ],
+            ),
+          ),
         ],
       ),
     );
   }
 }
 
+const String _svg_q3egzp =
+    '<svg viewBox="26.0 685.0 320.0 50.0" ><path transform="translate(26.0, 685.0)" d="M 25 0 L 295 0 C 308.80712890625 0 320 11.1928825378418 320 25 C 320 38.8071174621582 308.80712890625 50 295 50 L 25 50 C 11.1928825378418 50 0 38.8071174621582 0 25 C 0 11.1928825378418 11.1928825378418 0 25 0 Z" fill="#ffffff" stroke="none" stroke-width="1" stroke-miterlimit="10" stroke-linecap="butt" /></svg>';
 const String _svg_qlkx87 =
     '<svg viewBox="-148.0 -118.0 658.0 658.0" ><path transform="translate(-148.0, -118.0)" d="M 329 0 C 510.70166015625 0 658 147.2983245849609 658 329 C 658 510.70166015625 510.70166015625 658 329 658 C 147.2983245849609 658 0 510.70166015625 0 329 C 0 147.2983245849609 147.2983245849609 0 329 0 Z" fill="#ffffff" fill-opacity="0.25" stroke="none" stroke-width="1" stroke-opacity="0.25" stroke-miterlimit="4" stroke-linecap="butt" /></svg>';
 const String _svg_qomufc =
@@ -964,5 +994,5 @@ const String _svg_bvotp =
     '<svg viewBox="0.0 0.0 99.7 68.8" ><path transform="translate(-1056.45, 1704.37)" d="M 1091.65234375 -1685.35888671875 L 1056.449951171875 -1704.3662109375 L 1056.449951171875 -1655.102783203125 C 1056.449951171875 -1655.102783203125 1079.666748046875 -1631.682373046875 1098.046875 -1637.3359375 C 1116.426879882812 -1642.988525390625 1097.37158203125 -1633.152587890625 1111.640502929688 -1636.38330078125 C 1114.892333984375 -1635.4306640625 1146.415283203125 -1632.489990234375 1155.12158203125 -1650.25732421875 C 1163.828002929688 -1668.024169921875 1114.492065429688 -1704.3662109375 1114.492065429688 -1704.3662109375 L 1091.65234375 -1685.35888671875 Z" fill="none" stroke="#707070" stroke-width="1" stroke-miterlimit="4" stroke-linecap="butt" /></svg>';
 const String _svg_q0aruw =
     '<svg viewBox="111.7 57.6 50.0 18.5" ><path transform="translate(-103.7, -135.72)" d="M 223.4131774902344 211.8393249511719 L 259.3261108398438 207.2789001464844 C 263.031494140625 206.7088317871094 265.8817138671875 203.28857421875 265.311767578125 199.5832214355469 L 265.311767578125 199.5832214355469 C 265.0266418457031 195.8779296875 261.6063842773438 193.0277099609375 257.9010925292969 193.312744140625 L 216.2876281738281 196.1629638671875 C 216.0026245117188 195.8779296875 212.0122985839844 210.4141235351562 223.4131774902344 211.8393249511719 Z" fill="#fdb171" stroke="none" stroke-width="1" stroke-miterlimit="4" stroke-linecap="butt" /></svg>';
-const String _svg_q3egzp =
-    '<svg viewBox="26.0 685.0 320.0 50.0" ><path transform="translate(26.0, 685.0)" d="M 25 0 L 295 0 C 308.80712890625 0 320 11.1928825378418 320 25 C 320 38.8071174621582 308.80712890625 50 295 50 L 25 50 C 11.1928825378418 50 0 38.8071174621582 0 25 C 0 11.1928825378418 11.1928825378418 0 25 0 Z" fill="#ffffff" stroke="none" stroke-width="1" stroke-miterlimit="10" stroke-linecap="butt" /></svg>';
+const String _svg_bcrqbq =
+    '<svg viewBox="0.0 0.0 373.9 546.6" ><path transform="translate(508.0, 4123.0)" d="M -508 -4123 L -134.0902099609375 -4123 L -134.0902099609375 -3576.368408203125 L -508 -3576.368408203125 L -508 -4123 Z" fill="none" stroke="#707070" stroke-width="1" stroke-miterlimit="4" stroke-linecap="butt" /></svg>';
