@@ -24,7 +24,7 @@ Here are a few screenshots of the FitQuest app:
 
 Here's a short demo video of the FitQuest app in action:
 
-[![FitQuest App Demo](https://github.com/AbdullahBazina/FitQuest/blob/main/App%20demo.mp4)
+https://outlookuwicac-my.sharepoint.com/:v:/g/personal/st20177119_outlook_cardiffmet_ac_uk/EVzQqrOzcxZEkOfpLG8FrKAB1f1zABgF6O9T-CLGGsK8yA?e=5DR5gR
 
 ## Getting started
 
