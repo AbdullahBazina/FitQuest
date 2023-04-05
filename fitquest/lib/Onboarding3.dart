@@ -1,6 +1,6 @@
-import 'package:fitquest/SplashV2.dart';
 import 'package:flutter/material.dart';
 import 'package:adobe_xd/pinned.dart';
+import './SignUp1.dart';
 import 'package:adobe_xd/page_link.dart';
 import './Onboarding1.dart';
 import './Onboarding2.dart';
@@ -817,7 +817,7 @@ class Onboarding3 extends StatelessWidget {
                 PageLinkInfo(
                   ease: Curves.easeIn,
                   duration: 0.3,
-                  pageBuilder: () => SplashV2(),
+                  pageBuilder: () => SignUp1(),
                 ),
               ],
               child: Stack(

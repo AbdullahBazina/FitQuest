@@ -1,10 +1,10 @@
-import 'package:fitquest/SplashV2.dart';
 import 'package:flutter/material.dart';
 import 'package:adobe_xd/pinned.dart';
 import 'package:adobe_xd/gradient_xd_transform.dart';
 import './Onboarding2.dart';
 import 'package:adobe_xd/page_link.dart';
 import './Onboarding3.dart';
+import './SignUp1.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 
 class Onboarding1 extends StatelessWidget {
@@ -1328,7 +1328,7 @@ class Onboarding1 extends StatelessWidget {
                 PageLinkInfo(
                   ease: Curves.easeIn,
                   duration: 0.3,
-                  pageBuilder: () => SplashV2(),
+                  pageBuilder: () => SignUp1(),
                 ),
               ],
               child: Stack(
